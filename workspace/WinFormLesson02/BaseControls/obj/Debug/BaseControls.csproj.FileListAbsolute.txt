@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\bin\Debug\BaseControls.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\bin\Debug\BaseControls.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\bin\Debug\BaseControls.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\BaseControls\obj\Debug\BaseControls.pdb

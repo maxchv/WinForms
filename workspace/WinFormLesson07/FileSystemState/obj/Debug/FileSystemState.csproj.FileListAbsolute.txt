@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\bin\Debug\FileSystemState.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\bin\Debug\FileSystemState.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\bin\Debug\FileSystemState.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson07\FileSystemState\obj\Debug\FileSystemState.pdb

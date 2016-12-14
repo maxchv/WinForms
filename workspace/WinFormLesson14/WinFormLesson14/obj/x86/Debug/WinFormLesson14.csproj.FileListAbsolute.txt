@@ -1,0 +1,15 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\WinFormLesson14.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\WinFormLesson14.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\WinFormLesson14.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.Core.dll
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.dll
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.WinForms.dll
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.WinForms.xml
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.xml
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\bin\x86\Debug\CefSharp.Core.xml
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\WinFormLesson14\obj\x86\Debug\WinFormLesson14.pdb

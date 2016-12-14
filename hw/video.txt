@@ -1,0 +1,63 @@
+----------
+14.11.2016
+----------
+
+Intro	https://youtu.be/eMo5FhAo1J8
+	https://youtu.be/UliNsa1GoA4
+
+
+----------
+16.11.2016
+----------
+
+StatusStrip 
+ListBoxBinding 
+CheckBoxList 
+ToolTips
+	https://youtu.be/degmicww9Q4
+
+
+----------
+17.11.2016
+----------
+
+monthCalendarDataPicker
+	https://youtu.be/mi26lZvvOCI
+
+SecondForm
+	https://youtu.be/YhzVn7pGzq4
+
+----------
+21.11.2016
+----------
+
+Dialogs	https://youtu.be/KgYxMz8x5YE
+
+----------
+22.11.2016
+----------
+
+TreeView	https://youtu.be/m8MK-mevOjI
+FileWatcher	https://youtu.be/0S8xa2Hnsmc
+
+----------
+23.11.2016
+----------
+
+WinForms	https://youtu.be/KlL8xfbOujs
+
+------------
+06.12.2016
+------------
+
+https://youtu.be/-BNSX61FdWc
+https://youtu.be/yJlXqzuskyA
+https://youtu.be/Okw0t0G3Z2g
+
+------------
+14.12.2016
+------------
+
+WebControls	https://youtu.be/KVpQuc2R-94
+UserControls	https://youtu.be/ovNYLh9ap0M
+

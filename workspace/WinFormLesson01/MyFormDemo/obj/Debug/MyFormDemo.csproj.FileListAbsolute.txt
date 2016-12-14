@@ -1,0 +1,5 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\MyFormDemo\bin\Debug\MyFormDemo.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\MyFormDemo\bin\Debug\MyFormDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\MyFormDemo\bin\Debug\MyFormDemo.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\MyFormDemo\obj\Debug\MyFormDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\MyFormDemo\obj\Debug\MyFormDemo.pdb

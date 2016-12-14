@@ -1,0 +1,6 @@
+На базе библиотеки CefSharp http://ourcodeworld.com/articles/read/173/how-to-use-cefsharp-chromium-embedded-framework-csharp-in-a-winforms-application
+написать собсвенный браузер, который должен содержать следующий функционал:
+	0. Адресная строка/ кнопки вперед/назад
+	1. Работа с табами
+	2. История посещений
+	3. Закладки на сайты

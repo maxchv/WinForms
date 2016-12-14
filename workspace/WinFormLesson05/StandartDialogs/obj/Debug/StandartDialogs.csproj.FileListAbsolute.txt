@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\bin\Debug\StandartDialogs.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\bin\Debug\StandartDialogs.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\bin\Debug\StandartDialogs.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson05\StandartDialogs\obj\Debug\StandartDialogs.csprojResolveAssemblyReference.cache

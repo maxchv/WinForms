@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\bin\Debug\WinFormLesson09.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\bin\Debug\WinFormLesson09.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\bin\Debug\WinFormLesson09.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson09\WinFormLesson09\obj\Debug\WinFormLesson09.pdb

@@ -1,0 +1,6 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\bin\Debug\HelloForm.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\bin\Debug\HelloForm.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\bin\Debug\HelloForm.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\obj\Debug\HelloForm.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\obj\Debug\HelloForm.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson01\HelloForm\obj\Debug\HelloForm.pdb

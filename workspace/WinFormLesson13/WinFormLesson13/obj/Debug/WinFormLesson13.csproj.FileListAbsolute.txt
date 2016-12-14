@@ -1,0 +1,10 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.ChildWindow.resources

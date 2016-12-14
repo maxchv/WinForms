@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\bin\Debug\UsingCalendar.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\bin\Debug\UsingCalendar.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\bin\Debug\UsingCalendar.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\UsingCalendar\obj\Debug\UsingCalendar.csprojResolveAssemblyReference.cache

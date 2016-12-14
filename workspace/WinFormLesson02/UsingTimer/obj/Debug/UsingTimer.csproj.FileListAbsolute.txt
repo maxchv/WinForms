@@ -1,0 +1,8 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\bin\Debug\UsingTimer.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\bin\Debug\UsingTimer.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\bin\Debug\UsingTimer.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\obj\Debug\UsingTimer.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\obj\Debug\UsingTimer.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\obj\Debug\UsingTimer.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\obj\Debug\UsingTimer.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\UsingTimer\obj\Debug\UsingTimer.pdb

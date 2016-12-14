@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\bin\Debug\ListsDemo.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\bin\Debug\ListsDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\bin\Debug\ListsDemo.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\ListsDemo\obj\Debug\ListsDemo.pdb

@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\bin\Debug\DesktopAndHtml.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\bin\Debug\DesktopAndHtml.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\bin\Debug\DesktopAndHtml.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson14\DesktopAndHtml\obj\Debug\DesktopAndHtml.pdb

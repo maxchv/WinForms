@@ -1,0 +1,10 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\bin\Debug\GiftsShop.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\bin\Debug\GiftsShop.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\bin\Debug\GiftsShop.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson04\GiftsShop\obj\Debug\GiftsShop.GiftForm.resources

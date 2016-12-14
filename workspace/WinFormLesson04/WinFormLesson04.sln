@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormLesson04", "WinFormLesson04\WinFormLesson04.csproj", "{62ABA14A-C19C-42C0-8AFD-A688EF79688A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCalendar", "UsingCalendar\UsingCalendar.csproj", "{D2B8E072-82A3-4529-BDD2-2DD415EEC8A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftsShop", "GiftsShop\GiftsShop.csproj", "{59A7B4E5-0DB4-4959-8AC1-34773CC74127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62ABA14A-C19C-42C0-8AFD-A688EF79688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ABA14A-C19C-42C0-8AFD-A688EF79688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ABA14A-C19C-42C0-8AFD-A688EF79688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ABA14A-C19C-42C0-8AFD-A688EF79688A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B8E072-82A3-4529-BDD2-2DD415EEC8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B8E072-82A3-4529-BDD2-2DD415EEC8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B8E072-82A3-4529-BDD2-2DD415EEC8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B8E072-82A3-4529-BDD2-2DD415EEC8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A7B4E5-0DB4-4959-8AC1-34773CC74127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A7B4E5-0DB4-4959-8AC1-34773CC74127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A7B4E5-0DB4-4959-8AC1-34773CC74127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A7B4E5-0DB4-4959-8AC1-34773CC74127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

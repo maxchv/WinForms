@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\bin\Debug\TestSytemEditor.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\bin\Debug\TestSytemEditor.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\bin\Debug\TestSytemEditor.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson02\TestSytemEditor\obj\Debug\TestSytemEditor.pdb
