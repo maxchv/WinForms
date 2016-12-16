@@ -1,0 +1,9 @@
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\bin\Debug\GraphicsDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\bin\Debug\GraphicsDemo.pdb
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.csprojResolveAssemblyReference.cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.Form1.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.Properties.Resources.resources
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.GenerateResource.Cache
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+D:\shaptala\.net\WinForms\workspace\WinFormLesson16\GraphicsDemo\obj\Debug\GraphicsDemo.pdb
