@@ -8,3 +8,13 @@ D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\Wi
 D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.exe
 D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.pdb
 D:\shaptala\.net\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.ChildWindow.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.exe.config
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.exe
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\bin\Debug\WinFormLesson13.pdb
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.csprojResolveAssemblyReference.cache
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.ChildWindow.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.Form1.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.Properties.Resources.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.csproj.GenerateResource.Cache
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.exe
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson13\WinFormLesson13\obj\Debug\WinFormLesson13.pdb

@@ -1,7 +1,0 @@
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\bin\Debug\MyCotrolsLibrary.dll
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\bin\Debug\MyCotrolsLibrary.pdb
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\obj\Debug\MyCotrolsLibrary.csprojResolveAssemblyReference.cache
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\obj\Debug\MyCotrolsLibrary.CitiesCombo.resources
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\obj\Debug\MyCotrolsLibrary.csproj.GenerateResource.Cache
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\obj\Debug\MyCotrolsLibrary.dll
-D:\shaptala\.net\WinForms\workspace\WinFormsLesson15\MyCotrolsLibrary\obj\Debug\MyCotrolsLibrary.pdb

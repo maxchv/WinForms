@@ -8,3 +8,13 @@ D:\shaptala\.net\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\Wi
 D:\shaptala\.net\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.exe
 D:\shaptala\.net\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.pdb
 D:\shaptala\.net\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.SplashForm.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\bin\Debug\WinFormLesson16.exe.config
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\bin\Debug\WinFormLesson16.exe
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\bin\Debug\WinFormLesson16.pdb
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.csprojResolveAssemblyReference.cache
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.Form1.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.Properties.Resources.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.SplashForm.resources
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.csproj.GenerateResource.Cache
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.exe
+C:\Users\shaptala\Desktop\WinForms\workspace\WinFormLesson16\WinFormLesson16\obj\Debug\WinFormLesson16.pdb
