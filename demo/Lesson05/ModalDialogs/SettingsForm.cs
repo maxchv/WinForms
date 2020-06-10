@@ -10,8 +10,15 @@ using System.Windows.Forms;
 
 namespace ModalDialogs
 {
+    public class ColorEventArgs : EventArgs
+    {
+        public Color NewColor { get; set; }
+    }
+
     public partial class SettingsForm : Form
     {
+        public event EventHandler<ColorEventArgs> ColorChanged; 
+
         public SettingsForm()
         {
             InitializeComponent();
@@ -29,13 +36,19 @@ namespace ModalDialogs
 
         private void Apply_Click(object sender, EventArgs e)
         {
-            //Close();
-            DialogResult = DialogResult.OK;
+            ColorChanged?.Invoke(this, new ColorEventArgs{NewColor = NewColor });
         }
 
         private void trackBar_red_ValueChanged(object sender, EventArgs e)
         {
-            BackColor = Color.FromArgb(trackBar_red.Value, trackBar_green.Value, trackBar_blue.Value);
+            BackColor = NewColor;
+        }
+
+        private Color NewColor => Color.FromArgb(trackBar_red.Value, trackBar_green.Value, trackBar_blue.Value);
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

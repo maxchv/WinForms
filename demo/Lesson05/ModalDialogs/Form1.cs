@@ -22,16 +22,13 @@ namespace ModalDialogs
             // Передача параметров от родительского к дочернему окна
             // через конструктор дочернего окна
             SettingsForm settingsForm = new SettingsForm(BackColor);
+            settingsForm.ColorChanged += SettingsForm_ColorChanged;
+            settingsForm.Show();
+        }
 
-            // Получение результата - нажата кнопка Apply или Cancel
-            DialogResult result = settingsForm.ShowDialog();
-            if (result == DialogResult.OK)
-            {
-                // Получаем данные от дочернего окна (через свойство BackColor)
-                BackColor = settingsForm.BackColor;
-                toolStripStatusLabel1.BackColor = DefaultBackColor;
-            }
-            toolStripStatusLabel1.Text = result.ToString();
+        private void SettingsForm_ColorChanged(object sender, ColorEventArgs e)
+        {
+            BackColor = e.NewColor;
         }
     }
 }
