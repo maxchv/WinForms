@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson07", "Lesson07\Lesson07.csproj", "{2AC07701-263C-4E03-8A51-F1F15851FE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBoxDemo", "RichTextBoxDemo\RichTextBoxDemo.csproj", "{73BF086F-B6B9-4714-B4D2-724BD5FFFD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC07701-263C-4E03-8A51-F1F15851FE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC07701-263C-4E03-8A51-F1F15851FE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC07701-263C-4E03-8A51-F1F15851FE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC07701-263C-4E03-8A51-F1F15851FE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BF086F-B6B9-4714-B4D2-724BD5FFFD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BF086F-B6B9-4714-B4D2-724BD5FFFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BF086F-B6B9-4714-B4D2-724BD5FFFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BF086F-B6B9-4714-B4D2-724BD5FFFD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3912FD75-6A52-4472-9DB5-953FD31A0A1E}
+	EndGlobalSection
+EndGlobal
